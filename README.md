@@ -41,7 +41,8 @@ Trabalho na interseção entre medicina, governança de dados e tecnologia. Minh
 
 | Projeto | O que faz |
 | --- | --- |
-| [**ponto-biometria**](https://github.com/Tarcisio-Soria/ponto-biometria) | Leitor de digital DigitalPersona 4500 no navegador, com comparador de digitais em OpenCV.js e calibração das taxas de erro, sem SDK pago. |
+| [**digitalpersona-4500-fingerprint-matcher-web**](https://github.com/Tarcisio-Soria/digitalpersona-4500-fingerprint-matcher-web) | Leitor de digital DigitalPersona 4500 no navegador, com comparador de digitais em OpenCV.js e calibração das taxas de erro, sem SDK pago. |
+
 ## 🎓 Formação
 
 - Medicina, UniFTC
