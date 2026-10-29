@@ -1,8 +1,11 @@
-# Olá, eu sou o Tarcisio Soria 👋
+# Tarcisio Soria
 
-**Médico, gestor em saúde, empreendedor e arquiteto de sistemas.** Salvador, Bahia.
+**Executivo médico · Healthtech · Arquiteto de sistemas**<br>
+Operações complexas em saúde, tecnologia e infraestrutura · Salvador, BA
 
-Trabalho com tecnologia desde 2004 e com saúde desde 2014. Uno as duas coisas transformando fluxos de emergência e de internação em protocolos, indicadores e software que ajudam as equipes a cuidar melhor e mais rápido, com segurança da informação desde o desenho do sistema.
+Médico e executivo de saúde com mais de uma década liderando operações hospitalares e de urgência, de equipes com centenas de plantonistas a hospitais com mais de 150 leitos. Atuo como **executivo hands-on**: defino a estratégia e também desenho e construo os sistemas que a sustentam.
+
+Trabalho na interseção entre medicina, governança de dados e tecnologia. Minha marca é transformar operações complexas em processos padronizados, mensuráveis e automatizados, com inteligência artificial aplicada onde ela gera resultado.
 
 ## 🏥 Hoje
 
