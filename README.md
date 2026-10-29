@@ -9,14 +9,16 @@ Trabalho com tecnologia desde 2004 e com saúde desde 2014. Uno as duas coisas t
 - **Coordenador Médico na UPA Paripe** (IGH): protocolos médicos, fluxos institucionais e sistema informatizado de atendimento com dashboard de indicadores de qualidade.
 - **Gerente Médico na Fabamed**: protocolos, padronização de rotinas, treinamento de equipes, chefia de hospitalistas e preceptoria do internato médico, em hospitais com mais de 100 leitos.
 - **CEO da TOJ**: arquitetura tecnológica, IA e governança de dados aplicadas à engenharia e à construção civil.
+- **CEO da PRIV8 Consultoria**.
+- **CEO da DOCsimples**.
 
 ## 🏢 Empresas
 
 | Empresa | Papel | Período |
 | --- | --- | --- |
 | **TOJ** Construções, Reformas, Gestão e Consultoria | CEO e arquiteto da tecnologia da empresa | 2025 – hoje |
-| **DOCsimples** | Sócio fundador | 2014 – 2022 |
-| **PRIV8 Consultoria** | Sócio fundador (projetos sob NDA) | 2012 – 2022 |
+| **PRIV8 Consultoria** | Sócio fundador e CEO (projetos sob NDA) | 2012 – hoje |
+| **DOCsimples** | Sócio fundador e CEO | 2014 – hoje |
 | Freelancer em tecnologia e segurança | Projetos independentes | 2004 – 2022 |
 
 ## 🔐 Segurança da informação
