@@ -37,8 +37,6 @@ Trabalho com tecnologia desde 2004 e com saúde desde 2014. Uno as duas coisas t
 | Projeto | O que faz |
 | --- | --- |
 | [**ponto-biometria**](https://github.com/Tarcisio-Soria/ponto-biometria) | Leitor de digital DigitalPersona 4500 no navegador, com comparador de digitais em OpenCV.js e calibração das taxas de erro, sem SDK pago. |
-| **aulas-stories** | Template em Remotion para criar stories (9:16) de aulas rápidas para médicos. |
-
 ## 🎓 Formação
 
 - Medicina, UniFTC
@@ -47,8 +45,8 @@ Trabalho com tecnologia desde 2004 e com saúde desde 2014. Uno as duas coisas t
 
 ## 🧰 Ferramentas
 
-HTML · JavaScript · OpenCV.js · React · Remotion · Dashboards e indicadores · IA aplicada a processos · Segurança da informação · Governança de dados
+HTML · JavaScript · OpenCV.js · Dashboards e indicadores · IA aplicada a processos · Segurança da informação · Governança de dados
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/kknd/) · [kknd.com.br](https://kknd.com.br) · [Instagram](https://instagram.com/tarcisio.soria)
+[LinkedIn](https://www.linkedin.com/in/kknd/) · [kknd.com.br](https://kknd.com.br) · [Instagram @dr.tarcisio.soria](https://instagram.com/dr.tarcisio.soria)
