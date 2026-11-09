@@ -20,7 +20,7 @@ Trabalho na interseção entre medicina, governança de dados e tecnologia. Minh
 
 | Empresa | Papel | Período |
 | --- | --- | --- |
-| **Soria Serviços Médicos** | CEO | hoje |
+| **Soria Serviços Médicos** | CEO | 2015 – hoje |
 | **TOJ** Construções, Reformas, Gestão e Consultoria | CEO e arquiteto da tecnologia da empresa | 2025 – hoje |
 | **PRIV8 Consultoria** | Sócio fundador e CEO (projetos sob NDA) | 2012 – hoje |
 | **DOCsimples** | Sócio fundador e CEO | 2014 – hoje |
