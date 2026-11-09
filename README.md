@@ -42,6 +42,7 @@ Trabalho na interseção entre medicina, governança de dados e tecnologia. Minh
 | Projeto | O que faz |
 | --- | --- |
 | [**digitalpersona-4500-fingerprint-matcher-web**](https://github.com/Tarcisio-Soria/digitalpersona-4500-fingerprint-matcher-web) | Leitor de digital DigitalPersona 4500 no navegador, com comparador de digitais em OpenCV.js e calibração das taxas de erro, sem SDK pago. |
+| [**RCKangaroo-BR**](https://github.com/Tarcisio-Soria/RCKangaroo-BR) | Fork PT-BR do RCKangaroo (solver SOTA Kangaroo para o ECDLP em GPU): modo loteria, tabela de puzzles (#50–#160), painel ao vivo com telemetria da GPU e salvamento detalhado. Baseado na v3.1, otimizado para Ampere (sm_86). |
 
 ## 🎓 Formação
 
