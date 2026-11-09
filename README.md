@@ -11,6 +11,7 @@ Trabalho na interseção entre medicina, governança de dados e tecnologia. Minh
 
 - **Coordenador Médico na UPA Paripe** (IGH): protocolos médicos, fluxos institucionais e sistema informatizado de atendimento com dashboard de indicadores de qualidade.
 - **Gerente Médico na Fabamed**: protocolos, padronização de rotinas, treinamento de equipes, chefia de hospitalistas e preceptoria do internato médico, em hospitais com mais de 100 leitos.
+- **CEO da Soria Serviços Médicos**: serviços de gestão de unidades de saúde.
 - **CEO da TOJ**: arquitetura tecnológica, IA e governança de dados aplicadas à engenharia e à construção civil.
 - **CEO da PRIV8 Consultoria**.
 - **CEO da DOCsimples**.
