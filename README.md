@@ -24,7 +24,7 @@ Trabalho na interseção entre medicina, governança de dados e tecnologia. Minh
 | **TOJ** Construções, Reformas, Gestão e Consultoria | CEO e arquiteto da tecnologia da empresa | 2025 – hoje |
 | **PRIV8 Consultoria** | Sócio fundador e CEO (projetos sob NDA) | 2012 – hoje |
 | **DOCsimples** | Sócio fundador e CEO | 2014 – hoje |
-| Freelancer em tecnologia e segurança | Projetos independentes | 2004 – 2022 |
+| sob NDA | Freelancer Especialista em Segurança da Informação | 2004 – 2022 |
 
 ## 🔐 Segurança da informação
 
